@@ -1,0 +1,12 @@
+[submodule "ShootEmUp"]
+	path = ShootEmUp
+	url = https://github.com/volodyko/ShootEmUp.git
+[submodule "PhaserBasicSetup"]
+	path = PhaserBasicSetup
+	url = https://github.com/volodyko/PhaserBasicSetup.git
+[submodule "CloudPicker"]
+	path = CloudPicker
+	url = https://github.com/volodyko/CloudPicker.git
+[submodule "CatCacher"]
+	path = CatCacher
+	url = https://github.com/volodyko/CatCacher.git
